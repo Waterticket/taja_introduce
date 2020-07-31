@@ -3,7 +3,7 @@ taja.hoto.dev에 사용되는 맵을 만드는 방법입니다.
 
 
 ```
-예시: seventeen-very_nice.json
+/// 예시: https://taja.hoto.dev/map/seventeen-very_nice.json
 
 {
     "title":"세븐틴 - 아주 NICE",
