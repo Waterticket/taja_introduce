@@ -12,6 +12,12 @@ taja.hoto.dev에 사용되는 맵을 만드는 방법입니다.
     "map_builder":"맵 제작자",
     "subtitle":"next",
     "language":"kor",
+    "highlight" : [
+        {
+            "start":0,
+            "end":0
+        }
+    ],
     "m_data" : [
         {
             "start":0,
@@ -76,4 +82,5 @@ taja.hoto.dev에 사용되는 맵을 만드는 방법입니다.
 ```m_data```: 맵 노트들이 있는 배열입니다.<br>
 ```start```: 해당 노트가 시작될 시간(milisecond)입니다.<br>
 ```text```: 타자를 쳐야할 문자열입니다.<br>
+```highlight```: 하이라이트 부분을 나타냅니다. 이 부분에서는 스코어가 기본보다 더 증가하게 됩니다.<br>
 ```sub_text```: 타자 위에 작게 나타나는 문자입니다. ```subtitle```여부에 따라 표시 방법이 다릅니다.<br>
